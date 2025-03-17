@@ -1,2 +1,1 @@
-# website
-Contains code for website in progress
+Contains the website for LIS500: Code and Power.
